@@ -32,7 +32,7 @@ Just git clone then the APK file or Installer is located at [APK Installer & MD 
 <br>
 [Mobile Select](https://github.com/onlyhom/mobile-select) 
 <br>
-[Info related to Currency such as name and format by xsolla](https://github.com/xsolla/currency-format) 
+[Info related to Currency such as name and format by XSOLLA](https://github.com/xsolla/currency-format) 
 
 
 
