@@ -13,8 +13,11 @@ This is just a simple currency conversion app created using basic web technology
 <img src="APK Installer & MD IMG/Jengs-Currency-Converter.GIF" width="40%" height="100%">
 
 
+
+## Install
+Just git clone then the APK file or Installer is located at [APK Installer & MD IMG](https://github.com/rockstartraders/Jengs-Currency-Converter-para_-Android-/blob/main/APK%20Installer%20%26%20MD%20IMG/Jengs%20Currency%20Converter.apk) 
 <br>
-<br> 
+<br>
 
 ## Kudos to the following:
 [Materialize CSS for UI](https://materializecss.com/) 
