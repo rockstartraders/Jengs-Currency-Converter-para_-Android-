@@ -4,7 +4,7 @@ Jengs Currency Converter (para_ Android)
 
 ## About
 
-This is just a simple currency conversion app created using basic web technology, few JS libraries, Cordovan and [this API from dev.me.](https://dev.me/currency/converter)
+This is just a simple currency conversion app created using basic web technology, few JS libraries, Cordova and [this API from dev.me.](https://dev.me/currency/converter)
 
 
 <br>
