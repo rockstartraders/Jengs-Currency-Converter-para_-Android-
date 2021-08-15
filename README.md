@@ -22,7 +22,7 @@ Installer is located at [APK Installer & MD IMG FOLDER](https://github.com/rocks
 ## Some Info.
 I cannot recall how many currency pair you can convert but there is a lot.
 <br>
-API amount and symbil are Accurate.
+API amount and symbols are Accurate.
 <br>
 Amount may differ still because extra charges and taxes may vary if there is. 
 <br>
