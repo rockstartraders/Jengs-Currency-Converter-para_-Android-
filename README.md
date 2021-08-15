@@ -15,7 +15,7 @@ This is just a simple currency conversion app created using basic web technology
 
 
 ## Install
-Just git clone then the APK file or Installer is located at [APK Installer & MD IMG](https://github.com/rockstartraders/Jengs-Currency-Converter-para_-Android-/blob/main/APK%20Installer%20%26%20MD%20IMG/Jengs%20Currency%20Converter.apk) 
+Just git clone then the APK file or Installer is located at [APK Installer & MD IMG FOLDER](https://github.com/rockstartraders/Jengs-Currency-Converter-para_-Android-/blob/main/APK%20Installer%20%26%20MD%20IMG/Jengs%20Currency%20Converter.apk) 
 <br>
 <br>
 
