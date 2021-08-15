@@ -19,6 +19,15 @@ Just git clone then the APK file or Installer is located at [APK Installer & MD 
 <br>
 <br>
 
+## Some Info.
+I cannot recall how many currency pair you can convert but there is a lot.
+<br>
+API amount is Accurate.
+<br>
+Amount may differ still because extra charges and taxes may vary if there is. 
+<br>
+<br>
+
 ## Kudos to the following:
 [Materialize CSS for UI](https://materializecss.com/) 
 <br>
