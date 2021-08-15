@@ -42,6 +42,8 @@ Amount may differ still because extra charges and taxes may vary if there is.
 [Mobile Select](https://github.com/onlyhom/mobile-select) 
 <br>
 [Info related to Currency such as name and format by XSOLLA](https://github.com/xsolla/currency-format) 
+<br>
+[PNG EGG for the ICON](https://www.pngegg.com/) 
 
 
 
