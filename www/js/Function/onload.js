@@ -1,0 +1,1 @@
+window.onload=(e=>{setTimeout(function(){null==new MobileDetect(window.navigator.userAgent).phone()?document.getElementById("exception_").click():document.getElementById("main_").click()},3e3)});

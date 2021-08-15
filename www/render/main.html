@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8" />
+      <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">
+      <!--
+         <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+         -->
+      <meta name="format-detection" content="telephone=no" />
+      <meta name="msapplication-tap-highlight" content="no" />
+      <meta
+         name="viewport"
+         content="initial-scale=1, width=device-width, viewport-fit=cover"
+         />
+      <meta name="color-scheme" content="light dark" />
+      <!--
+         <link rel="stylesheet" href="css/index.css">
+         -->
+      <link rel="stylesheet" href="../css/materialize.min.css" />
+      <link rel="stylesheet" href="../css/fontawesome.min.css" />
+      <link rel="stylesheet" href="../css/mobileSelect.css" />
+      <link rel="stylesheet" href="../css/Poppins.css"/>
+      <link rel="stylesheet" href="../css/override.css" />
+      <link rel="stylesheet" href="../css/fonts.css" />
+      <link rel="stylesheet" href="../css/currency-flags.min.css" />
+      <title>Currency Converter</title>
+   </head>
+   <!-- For font to load faster-->
+   <!--Nav Bar -->
+   <nav id="main_">
+      <div class="nav-wrapper">
+         <a href="#" class="title center">Currency Converter</a>
+      </div>
+   </nav>
+   <!--End of Nav Bar -->    
+   <div id="center_flag">
+      <div class="currency-info" id="from"></div>
+      <br>
+      <div class="currency-info" id="to"></div>
+      <br>
+      <div class="currency-info" id="compared_value"></div>      
+      <br>
+      <div class="currency-info" id="iso_code_first"></div>
+      <div class="currency-info" id="iso_code_second"></div>
+      <div class="currency-info" id="to_currency_sign"></div>
+      <div class="currency-info" id="to_currency_format"></div>
+      <div class="currency-info" id="amount_to_multiply"></div>
+      <div class="currency-info" id="status_code">400</div>
+   </div>
+   <br>
+   <p id="trigger1"></p>
+   <!-- for Buttons-->
+   <div class="container" id="button_holder">
+      <div id="right_container">
+         <p id="enter_amount_txt">No Selected Currency Yet</p>
+      </div>
+      <input placeholder="0" id="number_screen" type="text" class="validate input-4" value="" readonly>
+      <!-- Original place for numbers -->  
+      <!-- <p id="number_screen"><span id="zero_span">0</span></p>  fixed sya -->
+      <div class="section _top">
+         <div class="row" id="top_function">
+            <button class="btn choose col s6 z-depth-1" id="choose">Select</button>       
+            <button class="btn top col s6 z-depth-1" id="reset"><i class="far fa-trash-alt"></i></i></button>
+         </div>
+      </div>
+      <div class="section _first">
+         <div class="row" id="row_one">
+            <button class="btn num col s4 z-depth-1" id="one" value="1">1</button>
+            <button class="btn num col s4 z-depth-1" id="two" value="2">2</button>
+            <button class="btn num col s4 z-depth-1" id="three" value="3">3</button>
+         </div>
+      </div>
+      <div class="row" id="row_two">
+         <button class="btn num col s4 z-depth-1" id="four" value="4">4</button>
+         <button class="btn num col s4 z-depth-1" id="five" value="5">5</button>
+         <button class="btn num col s4 z-depth-1" id="six" value="6">6</button>
+      </div>
+      <div class="row" id="row_three">
+         <button class="btn num col s4 z-depth-1" id="seven" value="7">7</button>
+         <button class="btn num col s4 z-depth-1" id="eight" value="8">8</button>
+         <button class="btn num col s4 z-depth-1" id="nine" value="9">9</button>
+      </div>
+      <div class="row" id="row_four">
+         <button class="btn num col s4 z-depth-1" id="dot" value="00">00</button>
+         <button class="btn num col s4 z-depth-1" id="zero" value="0">0</button>
+         <button class="btn erase col s4 z-depth-1" id="erase"><i class="fal fa-backspace" id="backspace"></i></button>
+      </div>
+      <div class="row" id="row_last">
+         <button class="btn conv_ col s12 z-depth-1" id="conv_"><i class="far fa-exchange" id="bottom_btn"></i>  
+         </button>       
+      </div>
+   </div>
+   <!-- End of Buttons-->
+   <!-- JS Script Required -->
+   <script src="cordova.js"></script>
+   <script src="../js/Required/index.js"></script>
+   <script src="../js/Function/onload.js"></script>  <!--Onload-->
+   <script src="../js/Required/materialize.min.js"></script>
+   <script src="../js/Required/jquery-2.1.1.min.js"></script>
+   <script src="../js/Required/mobile-detect.min.js"></script>
+   <!-- JS Script function -->
+   <script src="../js/Function/variables.js"></script>       
+   <script src="../js/Function/mobileSelect.min.js"></script>     
+   <script src="../js/Function/selection_btn.js"></script>
+   <script src="../js/Function/keypress_fn.js"></script> 
+   </body>
+</html>

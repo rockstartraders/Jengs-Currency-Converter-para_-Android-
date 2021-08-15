@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.rockstartraders.jengs_currency_converter" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Jengs Currency Converter</name>
+    <description>
+        A Basic Currency Converter using https://prod.dev.me/currency/exchange-rate API.
+    </description>
+    <author email="jamespaulespea@gmail.com" href="https://github.com/rockstartraders">
+         James Paul E. via @https://github.com/rockstartraders
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+         <preference name="SplashScreen" value="screen" />         
+         <preference name="SplashScreenDelay" value="0" />   
+         <preference name="AutoHideSplashScreen" value="true" />
+         <icon src="icon/exchange_icon.png" />
+         <preference name="StatusBarOverlaysWebView" value="true" />
+        <preference name="StatusBarBackgroundColor" value="#2d4053" />
+        <preference name="StatusBarDefaultScrollToTop" value="false" />
+            
+
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+</widget>
