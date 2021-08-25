@@ -47,10 +47,9 @@ Amount may differ still because extra charges and taxes may vary if there is.
 
 <br>
 <br>
-<br>
 
 ## LOGS
-25/08/2021 => Forced to change API Provider because the old one stops working and did rebuild apk file after.
+25/08/2021 - Forced to change API Provider because the old one stops working and did rebuild apk file after.
 
 
 
