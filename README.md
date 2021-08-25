@@ -4,7 +4,7 @@ Jengs Currency Converter (para_ Android)
 
 ## About
 
-This is just a simple currency conversion app created using basic web technology, few JS libraries, Cordova and [this API from dev.me.](https://dev.me/currency/converter)
+This is just a simple currency conversion app created using basic web technology, few JS libraries, Cordova and [this API](https://www.currencyconverterapi.com/)
 
 
 <br>
@@ -31,7 +31,7 @@ Amount may differ still because extra charges and taxes may vary if there is.
 ## Kudos to the following:
 [Materialize CSS for UI](https://materializecss.com/) 
 <br>
-[dev.me as API Provider](https://dev.me/currency/converter) 
+[Currency Converter as API Provider](https://www.currencyconverterapi.com/) 
 <br>
 [Mobile Detect JS](http://hgoebl.github.io/mobile-detect.js/) 
 <br>
@@ -44,6 +44,13 @@ Amount may differ still because extra charges and taxes may vary if there is.
 [Info related to Currency such as name and format by XSOLLA](https://github.com/xsolla/currency-format) 
 <br>
 [PNG EGG for FREE ICONS](https://www.pngegg.com/) 
+
+<br>
+<br>
+<br>
+
+## LOGS
+25/08/2021 => Forced to change API Provider because the old one stops working and did rebuild apk file after.
 
 
 

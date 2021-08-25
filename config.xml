@@ -2,7 +2,7 @@
 <widget id="com.rockstartraders.jengs_currency_converter" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Jengs Currency Converter</name>
     <description>
-        A Basic Currency Converter using https://prod.dev.me/currency/exchange-rate API.
+        A Basic Currency Converter using https://www.currencyconverterapi.com API.
     </description>
     <author email="jamespaulespea@gmail.com" href="https://github.com/rockstartraders">
          James Paul E. via @https://github.com/rockstartraders
